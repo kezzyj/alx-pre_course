@@ -1,8 +1,3 @@
-#to open a file 
-touch file name
-#to get all data in the git locally
+touch up_to_date
 git pull
-#to add to git main
-git add .
-git commit -m "message"
-git push origin master
+
